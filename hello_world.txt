@@ -1,2 +1,3 @@
 Hello world! I'm Ryan G.
 24 years old. I'm currently learning full stack web development in Odin Project.
+I'm about to become a Software Engineer/Full-Stack Web Developer
